@@ -6,7 +6,7 @@ This project is an end-to-end data engineering solution that ingests job listing
 
 ## 📌 Project Architecture
 
-![Architecture Diagram](images/architecture_diagram.png)
+![Architecture Diagram](images/architecture.png)
 
 ---
 
@@ -46,7 +46,7 @@ This project is an end-to-end data engineering solution that ingests job listing
 
 ## 📊 Sample Dashboard
 
-![Power BI Screenshot](powerbi/dashboard.png)
+![Power BI Screenshot](powerbi/Untitled.jpg)
 
 ---
 
