@@ -79,23 +79,8 @@ azure-jobs-data-pipeline/
 
 ---
 
-## 🔮 Future Enhancements
-
-- Schedule daily pipeline runs for automation
-- Include historical data snapshots
-- Use Azure Data Factory parameterization for flexibility
-- Add CI/CD deployment using GitHub Actions
-
----
-
 ## 👤 About Me
 
 Hi! I’m [Nikhil Sharma](https://www.linkedin.com/in/nikhilsharma1771), a Data Engineer passionate about scalable pipelines and modern data stacks.  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhilsharma1771)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
